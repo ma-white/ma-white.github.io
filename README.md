@@ -1,2 +1,1 @@
-# ma-white.github.io
-My website
+My Website
